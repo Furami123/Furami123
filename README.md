@@ -2,7 +2,7 @@
 - 👀 I’m interested in PC Mods rig
 - 🌱 I’m currently learning English,code
 - 💞️ I’m looking to collaborate on : None
-- 📫 How to reach me : Twitter https://goo.gl/anZMZF​
+- 📫 How to reach me : Twitter 
 
 <!---
 Furami123/Furami123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
